@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Medicines Inventory</string>
+    <string name="activity_name">Add Medicine Data</string>
+
+    <!-- Label for overflow menu option that inserts fake medicine data into the app-->
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <!-- Label for overflow menu option that reads fake medicine data into the app-->
+    <string name="read_dummy_data">Read Dummy Data</string>
+
+    <string name="succeeded">Added Successfully</string>
+    <string name="failed">Failed</string>
+
+    <string name="dots">dots</string>
+</resources>
