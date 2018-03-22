@@ -14,7 +14,7 @@ public final class MedicineContract {
     }
 
     /**
-     * Inner class that defines constant values for the pets database table.
+     * Inner class that defines constant values for the medicines database table.
      * Each entry in the table represents a single medicine.
      */
     public static abstract class MedicineEntry implements BaseColumns {
